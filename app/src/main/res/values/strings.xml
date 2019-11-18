@@ -1,0 +1,17 @@
+<resources>
+
+
+    <string name="app_name">consentdialog</string>
+    <!-- EU GDPR Consent texts -->
+    <string name="eu_consent_text">Dear user!\n\nWe use Google Admob to show ads. Ads support our work, and enable further development of this app. In line with the new European Data Protection Regulation (GDPR), we need your consent to serve ads tailored for you.</string>
+    <string name="eu_consent_question">Can your data be used to show ads tailored for you?</string>
+    <string name="learn_more">Learn how your data is used</string>
+    <string name="google_partners">Google and its partners:</string>
+    <string name="eu_consent_yes">Yes, continue to show relevant ads</string>
+    <string name="eu_consent_no">No, show ads that are irrelevant</string>
+    <string name="eu_consent_change_setting">You can change this setting anytime in the \"About\" window.</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="dialog_close">Close</string>
+    <string name="privacy_policy">Conscent Privacy Policy  For EU</string>
+
+</resources>
